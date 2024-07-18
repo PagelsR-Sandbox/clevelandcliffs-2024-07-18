@@ -1,4 +1,4 @@
-*  			  @pagelsr     //any file needs to be reviewed by ericksegaar
-README.MD @somebody 	 //the readme needs to be reviewd by somebody
-/docs/*		@docs-team	 //all the documents need to have approval from somebody of the docs-team
-*.js 			@js-team     //all the js files need approval from the js-team
+* @pagelsr
+README.MD @somebody
+/docs/*	@docs-team
+*.js 	@js-team
